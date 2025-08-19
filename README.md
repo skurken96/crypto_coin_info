@@ -1,8 +1,20 @@
 # 前言
-- **欢迎来到全网最全面的币圈区块链资源集合，一个专为加密货币爱好者和新手量身定做的信息宝库。目标是方便小白入门，同时提供一个一站式的信息平台，汇集各类常用工具与相关信息，助大家轻松导航币圈的复杂世界。无论您是寻找中心化交易所（如欧易、芝麻开门、币安等）注册链接官网、最新的数据分析工具、巨鲸追踪、NFT市场动向，还是想深入了解DeFi、DAO、跨链技术和安全的加密钱包，亦或者想要关注社区重要的推特账号、电报群组，这里都有您需要的资源。
-同时，我们非常欢迎社区成员提出补充或修改建议。关注我们，开始您的加密货币投资之旅，探索无限可能。** [电报群](https://t.me/+6X7HFG6RkJk0NTk1) 
+- **🎉 欢迎来到币圈最嗨皮的游乐场！这里是为加密货币探险家们精心打造的宝藏地图，无论你是刚入门的小白还是资深老韭菜，都能找到属于你的快乐星球！**
+- **🚀 我们的使命是：让每个人都能轻松玩转币圈，不再被复杂的信息海洋淹没！**
+- **🌈 在这里，你可以找到：**
+  - 交易所注册直通车（欧易、芝麻开门、币安等）
+  - 最新最酷的数据分析工具
+  - 巨鲸追踪器（看看大佬们在买什么）
+  - NFT市场热点（下一个无聊猿可能就是你发现的！）
+  - DeFi、DAO、跨链技术等前沿玩法
+  - 安全加密钱包推荐（让你的数字资产睡个好觉）
+  - 社区最活跃的推特账号和电报群（和志同道合的小伙伴一起嗨）
 
-微信群：加v: foloheart，备注github，我来拉进群
+**💡 小贴士：**
+- 我们每天都在更新，就像币价一样充满活力！
+- 欢迎加入我们的✈️[欢乐电报群](https://t.me/crypto_coin_home)，这里有最热情的币圈小伙伴！
+
+**微信群：**加v: adoorvip，备注"github指南"，我拉你进群一起玩耍！
 
 
 或扫码加我
@@ -52,7 +64,7 @@
     全球交易量第一。使用此邀请码：**github888** 可以一年内（币安在这方面不够大气）减免20%手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
 4. **[Bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=ASM5K7JM&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)**
-    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
+    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币等服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
 5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
     曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
 6. **[抹茶](https://www.mexc.com/)**
@@ -74,7 +86,7 @@
 - 对于币圈投资者来说，USDT（简称U）是非常熟悉的数字货币之一。U是全球首款稳定币，是一种将加密货币与美元挂钩的虚拟货币。什么是u卡？U卡用起来和普通“银行卡”差不多，主要就是往里面充U、直接在ATM上取现、进行线上消费，也能刷pos机，可以直接花U来安排衣食住行，例如加油，支付停车费，超市消费，买菜卖水果、药店买药，基本都丝滑无压力。
 1. **[dupay](https://www.dupay.one/web-app/register-h5?invitCode=T95ERM&lang=zh-cn)**
    Dupay Master Visa 卡支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等等。
-支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。
+支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、支持和非 3DS 卡的电商网站。
 支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
 支持 USDT 充值，然后使用 VISA/master 卡直接消费，免去 OTC 兑换风险.
 
@@ -536,7 +548,7 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
 12. **[Hashed](https://www.hashed.com/)**
     韩国最大的加密风投机构之一，专注于 Web3 游戏、元宇宙与去中心化金融领域。
 13. **[Jump Crypto](https://jumpcrypto.com/)**
-    Jump Trading 的加密部门，兼具投资与做市功能，深度参与 Solana、Wormhole 等基础设施建设。
+    Jump Trading 的加密部门，兼具投资与做市功能，深度参与 Solana、Wormhole 等基础设施的建设。
 14. **[Spartan Group](https://www.spartangroup.io/portfolio)**
     亚洲知名加密投行，专注于 DeFi、Web3 和 GameFi 项目，曾投资 StepN、dYdX 等项目。
 
