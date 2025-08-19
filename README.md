@@ -19,7 +19,7 @@
 
 或扫码加我
 <p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/ID_QRcode.jpg" alt="微信群" width="220" height="300">
+<img src="https://github.com/bitwaitcom/crypto_coin_info/blob/main/imgs/ID_QRcode.jpg" alt="微信群" width="220" height="300">
 </p>  
 
 
